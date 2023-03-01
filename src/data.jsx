@@ -37,5 +37,18 @@ export default [
         },
         location: "Norway",
         openSpots: 3,
+    },
+    {
+        id: 4,
+        title: "Make Mexican Street Tacos",
+        description: "Experience authentic Mexican street food culture with a step-by-step taco cooking class",
+        price: 28,
+        coverImg: "tacos.png",
+        stats: {
+            rating: 4.9,
+            reviewCount: 210
+        },
+        location: "Mexico",
+        openSpots: 3,
     }
 ]
