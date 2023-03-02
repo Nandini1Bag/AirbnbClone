@@ -50,5 +50,31 @@ export default [
         },
         location: "Mexico",
         openSpots: 3,
+    },
+    {
+        id: 5,
+        title: "Secrets of magic",
+        description: "Experience an epic journey of magical world",
+        price: 19,
+        coverImg: "magic.png",
+        stats: {
+            rating: 4.98,
+            reviewCount: 310
+        },
+        location: "United Kingdom",
+        openSpots: 3,
+    },
+    {
+        id: 6,
+        title: "Go On a Leopard Safari ",
+        description: "Experience ,enjoy and learn about all things wild on a Leopard Safari",
+        price: 19,
+        coverImg: "safari.png",
+        stats: {
+            rating: 4.98,
+            reviewCount: 310
+        },
+        location: "Sri Lanka",
+        openSpots: 3,
     }
 ]
